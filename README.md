@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Westgaard.
+- Intune, automation, scripting.
