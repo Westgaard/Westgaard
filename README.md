@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @Westgaard.
-- Intune, automation, scripting.
+- Intune, automation, scripting, Home Assistant
